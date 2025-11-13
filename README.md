@@ -38,14 +38,7 @@ Here are a few projects I’ve worked on recently:
 
 (If you want, I can turn any of these into full GitHub project descriptions.)
 
-## GitHub Stats
-> (Optional — remove if you prefer a minimal README)
 
-![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 ## Contact
 Feel free to reach out for collaborations or questions.
