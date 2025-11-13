@@ -37,11 +37,3 @@ Here are a few projects I’ve worked on recently:
 - **SimpleNotes (macOS)** – A lightweight note-taking app built in SwiftUI.  
 
 (If you want, I can turn any of these into full GitHub project descriptions.)
-
-
-
-## Contact
-Feel free to reach out for collaborations or questions.
-
-- **Email:** your.email@example.com  
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
