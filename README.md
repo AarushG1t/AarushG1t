@@ -34,6 +34,4 @@ Here are a few projects I’ve worked on recently:
 - **CMSCA iOS App** – A SwiftUI-based application designed to make CMSCA’s programs easier to access.  
 - **ComeFind** – A React Native app that helps users discover local community resources.  
 - **Encovia** – An environmental platform built with Expo/React Native, Express, and PostgreSQL.  
-- **SimpleNotes (macOS)** – A lightweight note-taking app built in SwiftUI.  
-
-(If you want, I can turn any of these into full GitHub project descriptions.)
+- **Planization (macOS)** – A strong idea making app with AI Integration.
