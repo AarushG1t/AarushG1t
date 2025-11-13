@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Aarush Agarwal
 
-<!--
-**AarushG1t/AarushG1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a mobile application developer with experience building production-ready applications using **Swift/SwiftUI** and **React Native**. I focus on creating clean, efficient, and user-centered software with an emphasis on architecture, performance, and maintainability. I enjoy building solutions that make a real impact, especially within education, robotics, and community-focused applications.
 
-Here are some ideas to get you started:
+## Skills
+**Mobile Development**
+- Swift, SwiftUI
+- React Native, Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & APIs**
+- Node.js, Express  
+- REST APIs  
+- PostgreSQL  
+
+**Other Technical Skills**
+- Git & GitHub  
+- UI/UX principles  
+- State management  
+- Component-driven development  
+
+## Tools
+- Xcode  
+- VS Code  
+- Expo CLI  
+- GitHub Desktop  
+- Postman  
+- Docker  
+- Figma / design tools  
+
+## Featured Projects
+Here are a few projects I’ve worked on recently:
+
+- **CMSCA iOS App** – A SwiftUI-based application designed to make CMSCA’s programs easier to access.  
+- **ComeFind** – A React Native app that helps users discover local community resources.  
+- **Encovia** – An environmental platform built with Expo/React Native, Express, and PostgreSQL.  
+- **SimpleNotes (macOS)** – A lightweight note-taking app built in SwiftUI.  
+
+(If you want, I can turn any of these into full GitHub project descriptions.)
+
+## GitHub Stats
+> (Optional — remove if you prefer a minimal README)
+
+![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+
+> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+
+## Contact
+Feel free to reach out for collaborations or questions.
+
+- **Email:** your.email@example.com  
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
