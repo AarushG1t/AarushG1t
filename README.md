@@ -34,4 +34,4 @@ Here are a few projects I’ve worked on recently:
 - **CMSCA iOS App** – A SwiftUI-based application designed to make CMSCA’s programs easier to access.  
 - **ComeFind** – A React Native app that helps users discover local community resources.  
 - **Encovia** – An environmental platform built with Expo/React Native, Express, and PostgreSQL.  
-- **Planization (macOS)** – A strong idea making app with AI Integration.
+- **Cliko Notes (macOS)** – A strong note-taking app with AI Integration.
